@@ -24,4 +24,4 @@ Have better solutions or suggestions? Feel free to open a pull request!
 ## 📌 Quick Links
 - [LeetCode Profile](#)
 - [Solutions Directory](Problems/)
-- [Progress Stats](stats/stats_summary.md)
+- [Progress Stats](Stats/Stats_Summary.md)
