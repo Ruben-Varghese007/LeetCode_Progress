@@ -3,8 +3,8 @@
 Welcome to my LeetCode journey! 🚀 This repository documents my progress solving coding problems on LeetCode. It includes solutions, explanations, and visualized stats to track my learning path.
 
 ## 🌟 Structure
-- `problems/`: Contains solutions categorized by difficulty.
-- `stats/`: Tracks solved problems and visualizes progress.
+- `Problems/`: Contains solutions categorized by difficulty.
+- `Stats/`: Tracks solved problems and visualizes progress.
 
 ## 📊 Current Stats
 - **Easy**: 0 solved
