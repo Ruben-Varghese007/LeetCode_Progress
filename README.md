@@ -11,7 +11,7 @@ Welcome to my LeetCode journey! 🚀 This repository documents my progress solvi
 - **Medium**: 0 solved
 - **Hard**: 0 solved
 
-Check the [stats section](stats/stats_summary.md) for detailed insights.
+Check the [stats section](Stats/Stats_Summary.md) for detailed insights.
 
 ## 🔥 Why this Repo?
 - Improve problem-solving skills.
