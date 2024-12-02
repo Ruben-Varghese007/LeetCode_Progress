@@ -20,6 +20,7 @@ Check the [stats section](Stats/Stats_Summary.md) for detailed insights.
 
 ## 🤝 Contribute
 Have better solutions or suggestions? Feel free to open a pull request!
+- [Contribution Guidelines](CONTRIBUTION.md) 
 
 ## 📌 Quick Links
 - [LeetCode Profile](#)
