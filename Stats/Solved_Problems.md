@@ -9,12 +9,12 @@
 | [Longest Substring](../solutions/longest_substring.py) | String         | Medium     | [View Solution](../solutions/longest_substring.py) |
 
 ## Categories Overview
-- **Array**: 0 problems solved
+- **Array**: 1 problems solved
 - **String**: 0 problems solved
 - **Linked List**: 0 problems solved
 
 ## Difficulty Breakdown
-- **Easy**: 0 problems
+- **Easy**: 1 problems
 - **Medium**: 0 problems
 - **Hard**: 0 problems
 
