@@ -7,6 +7,6 @@ Below is a pie chart representing your problem-solving progress:
 ## Key Statistics
 - **Total Solved:** 1 Problems
 - **Difficulty Breakdown:**
-  - Easy: 0%
+  - Easy: 10%
   - Medium: 0%
   - Hard: 0%
