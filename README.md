@@ -7,7 +7,7 @@ Welcome to my LeetCode journey! 🚀 This repository documents my progress solvi
 - `Stats/`: Tracks solved problems and visualizes progress.
 
 ## 📊 Current Stats
-- **Easy**: 1 solved
+- **Easy**: 2 solved
 - **Medium**: 0 solved
 - **Hard**: 0 solved
 
